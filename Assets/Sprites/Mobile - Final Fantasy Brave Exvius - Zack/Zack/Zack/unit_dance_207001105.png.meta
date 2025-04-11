@@ -1,0 +1,1319 @@
+fileFormatVersion: 2
+guid: 7d6b623d3792eab4db7d1f9ac7212041
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unit_dance_207001105_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7157
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a9d5165b1e7c7479ee59a17b68fa92
+      internalID: 455587399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7157
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c55d50f6acf347ab0388ba80fc5e5
+      internalID: 636653096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7157
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e2bcebb61c4fc48bee9ee68292e0ca
+      internalID: 1080098970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6736
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e87de011b1044da874649ef99d723
+      internalID: 548448918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6736
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef1590f6233954ca367e39860d75b2
+      internalID: -1426832234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6736
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bc012a45f66ba469ff92e167692d14
+      internalID: 1877553144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6315
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c624449c835a44828f36d94cf038a
+      internalID: 703976860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6315
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81562cdd672be43bcf437219da9b68
+      internalID: -1990008461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6315
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f05e943c467e748918614ab8ed42a5
+      internalID: -1845934932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5894
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ce115814bccb45841ce324dade416
+      internalID: 1234170699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5894
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1429fb5a6978424fa952a635b7b13ca
+      internalID: 1404913154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5894
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1063f26a9be1ac449998888060f4c757
+      internalID: -1553920609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5473
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca09e88a2faaf44a02f5e30356cb0a
+      internalID: -1829302828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5473
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c605ca8dca1d4c9983c8473bd9c6d
+      internalID: 1868860998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5473
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe517dab6f9b44c826d265092d0fd0
+      internalID: -223290040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5052
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58cd8c155f3db4898901dd99e34eda
+      internalID: 348601538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5052
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e43e61c399d508458318d4b55f1ab0e
+      internalID: 1502151548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5052
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391affdb9c30b1c4a866e2d4f9a7a092
+      internalID: 547585315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4631
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efa1b60429e2424aaeba18f6f756a9c
+      internalID: -1970648449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4631
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78e56314fe2e4d4f956098f38e81338
+      internalID: -1467140770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4631
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1026c0f5a4c2f44a986c20007027f5
+      internalID: -2023718539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4210
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202cacb810003843ab4f70a26b8dc8c
+      internalID: 323982124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4210
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72298db209dba4642bee6779895982e2
+      internalID: 453157409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4210
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d0b05b960be5446a5fa6210adbc25d
+      internalID: 1677644837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3789
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7cc70e70609914aa76a989ecf2867a
+      internalID: -424505782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3789
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1368c5f79d575478d87a873504d7c2
+      internalID: 989821571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3789
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc99a304101dfed4e994bcc6973ca09a
+      internalID: -1290337075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3368
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d21dd90c280284d88d15970f3b65ea
+      internalID: -196351724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3368
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea8ceefb3b1eb46a8a179ecebfc58c
+      internalID: 2057043899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3368
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a6b702b25252041a6c67eb9ea76d94
+      internalID: 627787685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2947
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013ff71a650c56f47aaa706c88d1a34c
+      internalID: 2139604829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2947
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0585813fcf941248885aee977ee430c
+      internalID: 1000580030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2947
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d4568199bafc948a0cd6b3b4cc4a7f
+      internalID: 259496103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2526
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8406f3e01fea95741879151d977ab536
+      internalID: -1013937203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2526
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f16a88eb2be54448307f265d23dd97
+      internalID: 495576422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2526
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68283940564e4894eb867b9410181bf6
+      internalID: 468743132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2105
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4f15984fc6c64cb49080c5e245bc3
+      internalID: 1517551477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2105
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba63ce5e1c1e847a09a7c36baf625f
+      internalID: 1873352206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2105
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cdea1c33ca2fb46b0c8ac2c22ca6f5
+      internalID: 2104717640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ec9524fafa444686d4909a93d5c08
+      internalID: -2140861078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1684
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359325f1432667149a4974c5f8fefe09
+      internalID: 1455294905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1684
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec92e4a503922d4689bce98fef5be70
+      internalID: 665303710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3067d21aa7cf48b002d5dd9d51cb4
+      internalID: 2084803483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1263
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4055ff962ff49940b170b606fe35a65
+      internalID: -263604190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_44
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1263
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc691abd10777045b61ab58138c7e9a
+      internalID: -2142536996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78315f7292a456343859c6f07590ae07
+      internalID: -647836318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 842
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2dc2caf15107c4c884b557580ef329
+      internalID: 1279022012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 842
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4a6071c4964c46bb318c6c15b35c3
+      internalID: -1910943863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37310f476d5f14644a1705b1a3592716
+      internalID: 377868847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 421
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f4dc3f68121944b9a0b1ad10ab2d9
+      internalID: 2142268013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_50
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 421
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63fbf26568e81c46a565a9d32c9f0b7
+      internalID: 1071958065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7692d99ae21e54cb4434a9dfd445a2
+      internalID: -84301427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_dance_207001105_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 143
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0644a1b11db9229488b25da7689588da
+      internalID: -1830890505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      unit_dance_207001105_0: 455587399
+      unit_dance_207001105_1: 636653096
+      unit_dance_207001105_10: 1404913154
+      unit_dance_207001105_11: -1553920609
+      unit_dance_207001105_12: -1829302828
+      unit_dance_207001105_13: 1868860998
+      unit_dance_207001105_14: -223290040
+      unit_dance_207001105_15: 348601538
+      unit_dance_207001105_16: 1502151548
+      unit_dance_207001105_17: 547585315
+      unit_dance_207001105_18: -1970648449
+      unit_dance_207001105_19: -1467140770
+      unit_dance_207001105_2: 1080098970
+      unit_dance_207001105_20: -2023718539
+      unit_dance_207001105_21: 323982124
+      unit_dance_207001105_22: 453157409
+      unit_dance_207001105_23: 1677644837
+      unit_dance_207001105_24: -424505782
+      unit_dance_207001105_25: 989821571
+      unit_dance_207001105_26: -1290337075
+      unit_dance_207001105_27: -196351724
+      unit_dance_207001105_28: 2057043899
+      unit_dance_207001105_29: 627787685
+      unit_dance_207001105_3: 548448918
+      unit_dance_207001105_30: 2139604829
+      unit_dance_207001105_31: 1000580030
+      unit_dance_207001105_32: 259496103
+      unit_dance_207001105_33: -1013937203
+      unit_dance_207001105_34: 495576422
+      unit_dance_207001105_35: 468743132
+      unit_dance_207001105_36: 1517551477
+      unit_dance_207001105_37: 1873352206
+      unit_dance_207001105_38: 2104717640
+      unit_dance_207001105_39: -2140861078
+      unit_dance_207001105_4: -1426832234
+      unit_dance_207001105_40: 1455294905
+      unit_dance_207001105_41: 665303710
+      unit_dance_207001105_42: 2084803483
+      unit_dance_207001105_43: -263604190
+      unit_dance_207001105_44: -2142536996
+      unit_dance_207001105_45: -647836318
+      unit_dance_207001105_46: 1279022012
+      unit_dance_207001105_47: -1910943863
+      unit_dance_207001105_48: 377868847
+      unit_dance_207001105_49: 2142268013
+      unit_dance_207001105_5: 1877553144
+      unit_dance_207001105_50: 1071958065
+      unit_dance_207001105_51: -84301427
+      unit_dance_207001105_52: -1830890505
+      unit_dance_207001105_6: 703976860
+      unit_dance_207001105_7: -1990008461
+      unit_dance_207001105_8: -1845934932
+      unit_dance_207001105_9: 1234170699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
