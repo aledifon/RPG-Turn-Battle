@@ -115,6 +115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3932788471575300925}
+  - component: {fileID: 2073454346829709192}
   m_Layer: 0
   m_Name: Zack
   m_TagString: Untagged
@@ -130,7 +131,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8602958888772766037}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 6.2, y: -1.57, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -138,3 +139,25 @@ Transform:
   - {fileID: 1272909137764044726}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2073454346829709192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8602958888772766037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b80163297fa4840aecf4c201b53012, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _unitName: Zack
+  _unitTime: 4
+  timeAnimationAttack: 2
+  speed: 8
+  offset: 3
+  damage: 5
+  healAmount: 5
+  _unitMaxLimit: 3
+  _maxHP: 25
+  _maxMP: 10

@@ -115,6 +115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6302071050026033305}
+  - component: {fileID: 8072099624279492871}
   m_Layer: 0
   m_Name: Sephiroth
   m_TagString: Untagged
@@ -130,7 +131,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5878099277762742088}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.8600001, y: -1.6642498, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -138,3 +139,25 @@ Transform:
   - {fileID: 3281944701794203025}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8072099624279492871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5878099277762742088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b80163297fa4840aecf4c201b53012, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _unitName: Sephiroth
+  _unitTime: 4
+  timeAnimationAttack: 3
+  speed: 5
+  offset: 1
+  damage: 5
+  healAmount: 0
+  _unitMaxLimit: 20
+  _maxHP: 20
+  _maxMP: 90
