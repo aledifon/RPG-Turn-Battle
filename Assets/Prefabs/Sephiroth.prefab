@@ -159,5 +159,7 @@ MonoBehaviour:
   damage: 5
   healAmount: 0
   _unitMaxLimit: 20
-  _maxHP: 20
-  _maxMP: 90
+  _maxHP: 200
+  _currentHP: 0
+  _maxMP: 200
+  _currentMP: 0
