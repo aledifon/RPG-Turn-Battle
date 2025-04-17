@@ -2,21 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AudioTrigger : MonoBehaviour
+public class AudioBlackMagicSpell : MonoBehaviour
 {
     AudioSource audioSource;
-    [SerializeField] private AudioClip audioClip;
+    [SerializeField] private AudioClip FireSpellFxClip;    
 
     void Awake()
     {
         audioSource = GetComponent<AudioSource>();        
     }
-
-    public void PlayEventFx()
+    private void PlayBlackMagicSpellFx(AudioClip audioClip)
     {
         if (audioSource != null)
         {
             audioSource.PlayOneShot(audioClip);
         }
     }
+
+    public void PlayFireSpellFx()
+    {
+        PlayBlackMagicSpellFx(FireSpellFxClip);
+    }  
 }
